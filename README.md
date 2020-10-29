@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a designer from Finland! I'm currently working as an UI designer in a number of educational website projects.
+
 <!--
 **stbaz/stbaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
