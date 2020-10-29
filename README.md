@@ -2,6 +2,7 @@
 
 I'm a designer from Finland! I'm currently working as an UI designer in a number of educational website projects.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stbaz)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stbaz)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
